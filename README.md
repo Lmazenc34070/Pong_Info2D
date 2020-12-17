@@ -1,10 +1,10 @@
+# Encore un pong
 
- https://lmazenc34070.github.io/Pong_Info2D/
+https://davidmarsprof.github.io/pong-wimbledon/
 
+Pour jouer...
 
-Contrôles :
-
-### Rebelles
+### Rafael
 touches A / Q 
-### Empire
+### Roger
 touches P / M 
